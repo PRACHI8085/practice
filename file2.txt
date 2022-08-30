@@ -1,1 +1,3 @@
 Today we started learning about git.
+also we learned about github.
+we learned about different commands also how to commit etc
